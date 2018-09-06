@@ -4,22 +4,66 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Password</title>
 </head>
 <body>
-    <h1>Password</h1>
-    <p>
-        <span id="pw0"></span><br>
-        <span id="pw1"></span><br>
-        <span id="pw2"></span><br>
-        <span id="pw3"></span><br>
-        <span id="pw4"></span><br>
-        <span id="pw5"></span><br>
-        <span id="pw6"></span><br>
-        <span id="pw7"></span><br>
-        <span id="pw8"></span><br>
-        <span id="pw9"></span><br>
-    </p>
-    <script src="app/app.js"></script>
+<h1>Passphrase</h1>
+<form name="opzioni" action="#" onsubmit="get_action();return false">
+    <fieldset>
+        <input type="checkbox" id="Animale" checked>
+        <label for="Animale">Animale</label><br>
+
+        <input type="checkbox" id="Aggettivo">
+        <label for="Aggettivo">Aggettivo</label><br>
+
+        <input type="checkbox" id="Numero" checked>
+        <label for="Numero">Numero</label><br>
+
+        <input type="checkbox" id="Nome">
+        <label for="Nome">Nome</label><br>
+
+        <input type="checkbox" id="Verbo" checked>
+        <label for="Verbo">Verbo</label><br>
+
+        <input type="checkbox" id="Avverbio">
+        <label for="Avverbio">Avverbio</label><br>
+
+        <input type="checkbox" id="Fiore">
+        <label for="Fiore">Fiore</label><br>
+
+        <input type="checkbox" id="Frutta">
+        <label for="Frutta">Frutta</label><br>
+
+        <input type="checkbox" id="Dolce">
+        <label for="Dolce">Dolce</label><br>
+
+        <input type="checkbox" id="Pietra">
+        <label for="Pietra">Pietra</label><br>
+
+        <input type="checkbox" id="Emozione">
+        <label for="Emozione">Emozione</label><br>
+
+        <input type="checkbox" id="Strumento">
+        <label for="Strumento">Strumento</label><br>
+
+        <input type="checkbox" id="Speciali" checked>
+        <label for="Speciali">Caratteri speciali</label><br><br>
+
+        <button>Crea 10 passphrase</button>
+    </fieldset>
+</form>
+<p>
+    <span id="pw0"></span><br>
+    <span id="pw1"></span><br>
+    <span id="pw2"></span><br>
+    <span id="pw3"></span><br>
+    <span id="pw4"></span><br>
+    <span id="pw5"></span><br>
+    <span id="pw6"></span><br>
+    <span id="pw7"></span><br>
+    <span id="pw8"></span><br>
+    <span id="pw9"></span><br>
+</p>
+<script src="app/app.js"></script>
 </body>
 </html>

@@ -1,0 +1,126 @@
+["", "", "", "", "", ""],
+
+verboList = [
+    ["abito", "abiti", "abita", "abitiamo", "abitate", "abitano"],
+    ["accendo", "accendi", "accende", "accendiamo", "accendete", "accendono"],
+    ["aiuto", "aiuti", "aiuta", "aiutiamo", "aiutate", "aiutano"],
+    ["amo", "ami", "ama", "amiamo", "amate", "amano"],
+	["vado", "vai", "va", "andiamo", "andate", "vanno"],
+	["apro", "apri", "apre", "apriamo", "aprite", "aprono"],
+	["arrivo", "arrivi", "arriva", "arriviamo", "arrivate", "arrivano"],
+	["ascolto", "ascolti", "ascolta", "ascoltiamo", "ascoltate", "ascoltano"],
+	["aspetto", "aspetti", "aspetta", "aspettiamo", "aspettate", "aspettano"],
+	["bacio", "baci", "bacia", "baciamo", "baciate", "baciano"],
+	["ballo", "balli", "balla", "balliamo", "ballate", "ballano"],
+	["", "", "", "", "", ""],
+	["", "", "", "", "", ""],
+	["", "", "", "", "", ""],
+	["", "", "", "", "", ""],
+	["", "", "", "", "", ""],
+	["", "", "", "", "", ""],
+    ["sono", "sei", "è", "siamo", "siete", "sono"],
+    ["ho", "hai", "ha", "abbiamo", "avete", "hanno"],
+    ["mangio", "mangi", "mangia", "mangiamo", "mangiate", "mangiano"],
+    ["dormo", "dormi", "dorme", "dormiamo", "dormite", "dormono"],
+    ["leggo", "leggi", "legge", "leggiamo", "leggete", "leggono"],
+    ["seguo", "segui", "segue", "seguiamo", "seguite", "seguono"],
+    ["bevo", "bevi", "beve", "beviamo", "bevete", "bevono"],
+];
+
+
+cambiare
+camminare
+cantare
+capire
+cenare
+cercare
+chiamare
+chiedere
+chiudere
+cominciare
+comprare
+conoscere
+continuare
+correre
+costare
+credere
+cucinare
+cuocere
+dare
+dimenticare
+dire
+diventare
+divorziare
+domandare
+dormire
+dovere
+entrare
+esistere
+essere
+fare
+finire
+giocare
+guardare
+imparare
+interessare
+lasciare
+lavare
+lavorare
+leggere
+mandare
+mangiare
+mettere
+morire
+nascere
+nevicare
+nuotare
+organizzare
+pagare
+parlare
+partire
+pensare
+perdere
+piacere
+piovere
+portare
+potere
+pranzare
+preferire
+prendere
+provare
+regalare
+ricordare
+ridere
+rimanere
+ripetere
+rispondere
+ritornare
+salire
+salutare
+sapere
+scendere
+scrivere
+scusare
+sentire
+spegnere
+sperare
+sposare
+stare
+studiare
+suonare
+svegliarsi
+telefonare
+tornare
+trovare
+usare
+uscire
+vedere
+vendere
+venire
+vestirsi
+viaggiare
+vietare
+visitare
+vivere
+volare
+volere
